@@ -1,0 +1,62 @@
+{
+  "language": "en",
+  "DeveloperMode": false,
+  "autoCreateDB": true,
+  "allowInbox": false,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "UPTIME": 5,
+  "DASHBOARD": true,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "BOTNAME": "天 • | 𝚂𝙾𝙿𝙷𝙸𝙰",
+  "PREFIX": "?",
+  "ADMINBOT": [
+    "100008698744166"
+  ],
+  "OWNERLINK": [
+    "https://facebook.com/Rzwmp"
+  ],
+  "GOD": [
+    "100008698744166"
+  ],
+  "APPSTATEPATH": "HeavenlyGods.json",
+  "SETUP_WIN": {
+    "port": 8888,
+    "use": "If running more than 1 file on win, change this number in the second file 2, 3, 4..."
+  },
+  "FCAOption": {
+    "forceLogin": false,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": true,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+  },
+  "version": "1.1.0",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 30
+  },
+  "log": {
+    "enable": true
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  }
+}
